@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\bin\Debug\net8.0\DsAlgo.exe
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\bin\Debug\net8.0\DsAlgo.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\bin\Debug\net8.0\DsAlgo.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\bin\Debug\net8.0\DsAlgo.dll
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\bin\Debug\net8.0\DsAlgo.pdb
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\DsAlgo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\DsAlgo.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\DsAlgo.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\DsAlgo.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\DsAlgo.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\DsAlgo.dll
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\refint\DsAlgo.dll
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\DsAlgo.pdb
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\DsAlgo.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\DsAlgo\obj\Debug\net8.0\ref\DsAlgo.dll
