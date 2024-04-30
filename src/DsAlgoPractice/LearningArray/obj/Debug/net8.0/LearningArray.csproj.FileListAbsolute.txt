@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\bin\Debug\net8.0\LearningArray.exe
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\bin\Debug\net8.0\LearningArray.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\bin\Debug\net8.0\LearningArray.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\bin\Debug\net8.0\LearningArray.dll
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\bin\Debug\net8.0\LearningArray.pdb
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\LearningArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\LearningArray.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\LearningArray.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\LearningArray.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\LearningArray.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\LearningArray.dll
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\refint\LearningArray.dll
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\LearningArray.pdb
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\LearningArray.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\LearningArray\obj\Debug\net8.0\ref\LearningArray.dll

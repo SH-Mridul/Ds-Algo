@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "F:\\Ds-Algo\\src\\DsAlgoPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CB0F7C3-81A9-46E5-8A3C-DA0A9F889126}|DsAlgo\\DsAlgo.csproj|f:\\ds-algo\\src\\dsalgopractice\\dsalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0F7C3-81A9-46E5-8A3C-DA0A9F889126}|DsAlgo\\DsAlgo.csproj|solutionrelative:dsalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2150FC6-E8D7-4D5D-8023-56E19770C6DD}|LearningArray\\LearningArray.csproj|f:\\ds-algo\\src\\dsalgopractice\\learningarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2150FC6-E8D7-4D5D-8023-56E19770C6DD}|LearningArray\\LearningArray.csproj|solutionrelative:learningarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedWidth": 210,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 209,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\DsAlgo\\Program.cs",
-              "RelativeDocumentMoniker": "DsAlgo\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\DsAlgo\\Program.cs",
-              "RelativeToolTip": "DsAlgo\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAoAAAAAAAAA",
+              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\LearningArray\\Program.cs",
+              "RelativeDocumentMoniker": "LearningArray\\Program.cs",
+              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\LearningArray\\Program.cs",
+              "RelativeToolTip": "LearningArray\\Program.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAkwJ0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T19:25:55.253Z",
+              "WhenOpened": "2024-04-30T10:16:49.374Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 7,
+          "DockedWidth": 8,
           "SelectedChildIndex": -1,
           "Children": [
             {
