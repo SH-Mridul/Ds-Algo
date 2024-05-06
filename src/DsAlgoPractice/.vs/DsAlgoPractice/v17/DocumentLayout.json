@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\Ds-Algo\\src\\DsAlgoPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A67664B-7B10-4316-B5F3-5D80B384D391}|PrimeFactorization\\PrimeFactorization.csproj|f:\\ds-algo\\src\\dsalgopractice\\primefactorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A67664B-7B10-4316-B5F3-5D80B384D391}|PrimeFactorization\\PrimeFactorization.csproj|solutionrelative:primefactorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A3D48A-7140-4EAE-A941-299079F4B9B7}|BinaryToDecimal\\BinaryToDecimal.csproj|f:\\ds-algo\\src\\dsalgopractice\\binarytodecimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A3D48A-7140-4EAE-A941-299079F4B9B7}|BinaryToDecimal\\BinaryToDecimal.csproj|solutionrelative:binarytodecimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2150FC6-E8D7-4D5D-8023-56E19770C6DD}|LearningArray\\LearningArray.csproj|f:\\ds-algo\\src\\dsalgopractice\\learningarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2150FC6-E8D7-4D5D-8023-56E19770C6DD}|LearningArray\\LearningArray.csproj|solutionrelative:learningarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -13,31 +21,46 @@
       "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedWidth": 209,
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\PrimeFactorization\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeFactorization\\Program.cs",
+              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\PrimeFactorization\\Program.cs",
+              "RelativeToolTip": "PrimeFactorization\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:28:28.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BinaryToDecimal\\Program.cs",
+              "RelativeDocumentMoniker": "BinaryToDecimal\\Program.cs",
+              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BinaryToDecimal\\Program.cs",
+              "RelativeToolTip": "BinaryToDecimal\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:12:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\LearningArray\\Program.cs",
               "RelativeDocumentMoniker": "LearningArray\\Program.cs",
               "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\LearningArray\\Program.cs",
               "RelativeToolTip": "LearningArray\\Program.cs",
-              "ViewState": "AQIAAK0AAAAAAAAAAAAkwJ0AAAAVAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwFcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:16:49.374Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 8,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+              "WhenOpened": "2024-04-30T10:16:49.374Z"
             }
           ]
         }
