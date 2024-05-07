@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\bin\Debug\net8.0\GCDUsingEuclid.exe
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\bin\Debug\net8.0\GCDUsingEuclid.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\bin\Debug\net8.0\GCDUsingEuclid.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\bin\Debug\net8.0\GCDUsingEuclid.dll
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\bin\Debug\net8.0\GCDUsingEuclid.pdb
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\GCDUsingEuclid.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\GCDUsingEuclid.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\GCDUsingEuclid.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\GCDUsingEuclid.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\GCDUsingEuclid.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\GCDUsingEuclid.dll
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\refint\GCDUsingEuclid.dll
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\GCDUsingEuclid.pdb
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\GCDUsingEuclid.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\GCDUsingEuclid\obj\Debug\net8.0\ref\GCDUsingEuclid.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DsAlgo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad18057d06965ca1a1dd0bd7b8435b7d7bf91f58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d9855b1e237d5343c116967084c18ae0ac3de4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DsAlgo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DsAlgo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

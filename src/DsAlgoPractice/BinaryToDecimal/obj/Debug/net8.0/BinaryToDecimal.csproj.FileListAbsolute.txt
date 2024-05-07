@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.exe
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.dll
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.pdb
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.dll
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\refint\BinaryToDecimal.dll
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.pdb
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\BinaryToDecimal\obj\Debug\net8.0\ref\BinaryToDecimal.dll

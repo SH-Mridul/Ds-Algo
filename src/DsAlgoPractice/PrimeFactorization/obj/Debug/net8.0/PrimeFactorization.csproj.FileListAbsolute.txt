@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\bin\Debug\net8.0\PrimeFactorization.exe
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\bin\Debug\net8.0\PrimeFactorization.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\bin\Debug\net8.0\PrimeFactorization.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\bin\Debug\net8.0\PrimeFactorization.dll
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\bin\Debug\net8.0\PrimeFactorization.pdb
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\PrimeFactorization.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\PrimeFactorization.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\PrimeFactorization.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\PrimeFactorization.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\PrimeFactorization.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\PrimeFactorization.dll
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\refint\PrimeFactorization.dll
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\PrimeFactorization.pdb
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\PrimeFactorization.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\PrimeFactorization\obj\Debug\net8.0\ref\PrimeFactorization.dll
