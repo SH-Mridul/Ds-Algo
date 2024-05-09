@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\bin\Debug\net8.0\InsertionSort.exe
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\bin\Debug\net8.0\InsertionSort.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\bin\Debug\net8.0\InsertionSort.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\bin\Debug\net8.0\InsertionSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\bin\Debug\net8.0\InsertionSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\InsertionSort.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\InsertionSort.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\InsertionSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\refint\InsertionSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\InsertionSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\InsertionSort.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\InsertionSort\obj\Debug\net8.0\ref\InsertionSort.dll

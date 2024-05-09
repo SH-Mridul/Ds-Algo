@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeFactorization", "Prime
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCDUsingEuclid", "GCDUsingEuclid\GCDUsingEuclid.csproj", "{1302C5BD-C0E6-40C5-BF2C-5B5A75649717}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{8891D994-486D-41D8-8096-211F108B212D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8891D994-486D-41D8-8096-211F108B212D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8891D994-486D-41D8-8096-211F108B212D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8891D994-486D-41D8-8096-211F108B212D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8891D994-486D-41D8-8096-211F108B212D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

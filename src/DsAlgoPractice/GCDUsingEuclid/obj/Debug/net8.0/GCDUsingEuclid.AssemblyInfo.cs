@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GCDUsingEuclid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2466e3dec07cfaf0456e8d36736bccddde5067eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f3917aac8c4f46592b01634b8847ae86dcc25e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GCDUsingEuclid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GCDUsingEuclid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

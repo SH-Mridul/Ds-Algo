@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}|SelectionSort\\SelectionSort.csproj|solutionrelative:selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8891D994-486D-41D8-8096-211F108B212D}|BubbleSort\\BubbleSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8891D994-486D-41D8-8096-211F108B212D}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}|InsertionSort\\InsertionSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CB0F7C3-81A9-46E5-8A3C-DA0A9F889126}|DsAlgo\\DsAlgo.csproj|f:\\ds-algo\\src\\dsalgopractice\\dsalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB0F7C3-81A9-46E5-8A3C-DA0A9F889126}|DsAlgo\\DsAlgo.csproj|solutionrelative:dsalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\InsertionSort\\Program.cs",
+              "RelativeDocumentMoniker": "InsertionSort\\Program.cs",
+              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\InsertionSort\\Program.cs",
+              "RelativeToolTip": "InsertionSort\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:48:12.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
+              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BubbleSort\\Program.cs",
+              "RelativeToolTip": "BubbleSort\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:34:11.825Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\DsAlgo\\Program.cs",
               "RelativeDocumentMoniker": "DsAlgo\\Program.cs",
@@ -59,12 +93,11 @@
               "RelativeToolTip": "DsAlgo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:06:42.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T17:06:42.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\GCDUsingEuclid\\Program.cs",
               "RelativeDocumentMoniker": "GCDUsingEuclid\\Program.cs",
@@ -76,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\PrimeFactorization\\Program.cs",
               "RelativeDocumentMoniker": "PrimeFactorization\\Program.cs",
@@ -88,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BinaryToDecimal\\Program.cs",
               "RelativeDocumentMoniker": "BinaryToDecimal\\Program.cs",
@@ -100,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\LearningArray\\Program.cs",
               "RelativeDocumentMoniker": "LearningArray\\Program.cs",
