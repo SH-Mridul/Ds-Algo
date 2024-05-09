@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\bin\Debug\net8.0\SelectionSort.exe
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\bin\Debug\net8.0\SelectionSort.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\bin\Debug\net8.0\SelectionSort.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\bin\Debug\net8.0\SelectionSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\bin\Debug\net8.0\SelectionSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\SelectionSort.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\SelectionSort.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\SelectionSort.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\SelectionSort.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\SelectionSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\refint\SelectionSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\SelectionSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\SelectionSort.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\SelectionSort\obj\Debug\net8.0\ref\SelectionSort.dll

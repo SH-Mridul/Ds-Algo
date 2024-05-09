@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryToDecimal", "BinaryTo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeFactorization", "PrimeFactorization\PrimeFactorization.csproj", "{6A67664B-7B10-4316-B5F3-5D80B384D391}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDUsingEuclid", "GCDUsingEuclid\GCDUsingEuclid.csproj", "{1302C5BD-C0E6-40C5-BF2C-5B5A75649717}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCDUsingEuclid", "GCDUsingEuclid\GCDUsingEuclid.csproj", "{1302C5BD-C0E6-40C5-BF2C-5B5A75649717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1302C5BD-C0E6-40C5-BF2C-5B5A75649717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1302C5BD-C0E6-40C5-BF2C-5B5A75649717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1302C5BD-C0E6-40C5-BF2C-5B5A75649717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
