@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\Ds-Algo\\src\\DsAlgoPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CA36578-428B-4AD8-9CA0-8BF2C93525EF}|QuickSort\\QuickSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA36578-428B-4AD8-9CA0-8BF2C93525EF}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5876A9-D9EE-40FC-BA16-8F5466C82C13}|MargeSort\\MargeSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\margesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5876A9-D9EE-40FC-BA16-8F5466C82C13}|MargeSort\\MargeSort.csproj|solutionrelative:margesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}|SelectionSort\\SelectionSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}|SelectionSort\\SelectionSort.csproj|solutionrelative:selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\QuickSort\\Program.cs",
+              "RelativeDocumentMoniker": "QuickSort\\Program.cs",
+              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\QuickSort\\Program.cs",
+              "RelativeToolTip": "QuickSort\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:18:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\MargeSort\\Program.cs",
+              "RelativeDocumentMoniker": "MargeSort\\Program.cs",
+              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\MargeSort\\Program.cs",
+              "RelativeToolTip": "MargeSort\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:04:46.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\InsertionSort\\Program.cs",
               "RelativeDocumentMoniker": "InsertionSort\\Program.cs",
@@ -54,12 +88,11 @@
               "RelativeToolTip": "InsertionSort\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T19:48:12.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T19:48:12.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BubbleSort\\Program.cs",
               "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
@@ -67,12 +100,11 @@
               "RelativeToolTip": "BubbleSort\\Program.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T19:34:11.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T19:34:11.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\SelectionSort\\Program.cs",
               "RelativeDocumentMoniker": "SelectionSort\\Program.cs",
@@ -85,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\DsAlgo\\Program.cs",
               "RelativeDocumentMoniker": "DsAlgo\\Program.cs",
@@ -97,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\GCDUsingEuclid\\Program.cs",
               "RelativeDocumentMoniker": "GCDUsingEuclid\\Program.cs",
@@ -109,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\PrimeFactorization\\Program.cs",
               "RelativeDocumentMoniker": "PrimeFactorization\\Program.cs",
@@ -121,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BinaryToDecimal\\Program.cs",
               "RelativeDocumentMoniker": "BinaryToDecimal\\Program.cs",
@@ -133,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\LearningArray\\Program.cs",
               "RelativeDocumentMoniker": "LearningArray\\Program.cs",

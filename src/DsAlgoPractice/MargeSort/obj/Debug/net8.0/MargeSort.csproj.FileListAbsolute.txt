@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\bin\Debug\net8.0\MargeSort.exe
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\bin\Debug\net8.0\MargeSort.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\bin\Debug\net8.0\MargeSort.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\bin\Debug\net8.0\MargeSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\bin\Debug\net8.0\MargeSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\MargeSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\MargeSort.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\MargeSort.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\MargeSort.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\MargeSort.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\MargeSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\refint\MargeSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\MargeSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\MargeSort.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\MargeSort\obj\Debug\net8.0\ref\MargeSort.dll

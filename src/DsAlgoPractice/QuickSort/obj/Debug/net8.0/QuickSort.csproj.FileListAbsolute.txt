@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\bin\Debug\net8.0\QuickSort.exe
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\bin\Debug\net8.0\QuickSort.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\bin\Debug\net8.0\QuickSort.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\bin\Debug\net8.0\QuickSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\bin\Debug\net8.0\QuickSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\QuickSort.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\QuickSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\refint\QuickSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\QuickSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\QuickSort.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\QuickSort\obj\Debug\net8.0\ref\QuickSort.dll
