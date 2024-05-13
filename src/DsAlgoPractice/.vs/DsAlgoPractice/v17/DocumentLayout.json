@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "F:\\Ds-Algo\\src\\DsAlgoPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CA36578-428B-4AD8-9CA0-8BF2C93525EF}|QuickSort\\QuickSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA36578-428B-4AD8-9CA0-8BF2C93525EF}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF5876A9-D9EE-40FC-BA16-8F5466C82C13}|MargeSort\\MargeSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\margesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF5876A9-D9EE-40FC-BA16-8F5466C82C13}|MargeSort\\MargeSort.csproj|solutionrelative:margesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}|SelectionSort\\SelectionSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA8CE888-88CC-4EC1-8C46-B0172D0A502E}|SelectionSort\\SelectionSort.csproj|solutionrelative:selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8891D994-486D-41D8-8096-211F108B212D}|BubbleSort\\BubbleSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8891D994-486D-41D8-8096-211F108B212D}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}|InsertionSort\\InsertionSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48BBFAC3-B049-4523-85E9-B2A7F749B3C4}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0F7C3-81A9-46E5-8A3C-DA0A9F889126}|DsAlgo\\DsAlgo.csproj|f:\\ds-algo\\src\\dsalgopractice\\dsalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0F7C3-81A9-46E5-8A3C-DA0A9F889126}|DsAlgo\\DsAlgo.csproj|solutionrelative:dsalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1302C5BD-C0E6-40C5-BF2C-5B5A75649717}|GCDUsingEuclid\\GCDUsingEuclid.csproj|f:\\ds-algo\\src\\dsalgopractice\\gcdusingeuclid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1302C5BD-C0E6-40C5-BF2C-5B5A75649717}|GCDUsingEuclid\\GCDUsingEuclid.csproj|solutionrelative:gcdusingeuclid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A67664B-7B10-4316-B5F3-5D80B384D391}|PrimeFactorization\\PrimeFactorization.csproj|f:\\ds-algo\\src\\dsalgopractice\\primefactorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A67664B-7B10-4316-B5F3-5D80B384D391}|PrimeFactorization\\PrimeFactorization.csproj|solutionrelative:primefactorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04A3D48A-7140-4EAE-A941-299079F4B9B7}|BinaryToDecimal\\BinaryToDecimal.csproj|f:\\ds-algo\\src\\dsalgopractice\\binarytodecimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04A3D48A-7140-4EAE-A941-299079F4B9B7}|BinaryToDecimal\\BinaryToDecimal.csproj|solutionrelative:binarytodecimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2150FC6-E8D7-4D5D-8023-56E19770C6DD}|LearningArray\\LearningArray.csproj|f:\\ds-algo\\src\\dsalgopractice\\learningarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2150FC6-E8D7-4D5D-8023-56E19770C6DD}|LearningArray\\LearningArray.csproj|solutionrelative:learningarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6834DAEC-6133-4C15-853A-1ADD4B9EB41E}|HeapSort\\HeapSort.csproj|f:\\ds-algo\\src\\dsalgopractice\\heapsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6834DAEC-6133-4C15-853A-1ADD4B9EB41E}|HeapSort\\HeapSort.csproj|solutionrelative:heapsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,124 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\QuickSort\\Program.cs",
-              "RelativeDocumentMoniker": "QuickSort\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\QuickSort\\Program.cs",
-              "RelativeToolTip": "QuickSort\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCsAAAAPAAAA",
+              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\HeapSort\\Program.cs",
+              "RelativeDocumentMoniker": "HeapSort\\Program.cs",
+              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\HeapSort\\Program.cs",
+              "RelativeToolTip": "HeapSort\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T20:18:27.185Z",
+              "WhenOpened": "2024-05-13T19:33:37.653Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\MargeSort\\Program.cs",
-              "RelativeDocumentMoniker": "MargeSort\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\MargeSort\\Program.cs",
-              "RelativeToolTip": "MargeSort\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:04:46.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\InsertionSort\\Program.cs",
-              "RelativeDocumentMoniker": "InsertionSort\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\InsertionSort\\Program.cs",
-              "RelativeToolTip": "InsertionSort\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T19:48:12.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BubbleSort\\Program.cs",
-              "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BubbleSort\\Program.cs",
-              "RelativeToolTip": "BubbleSort\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T19:34:11.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\SelectionSort\\Program.cs",
-              "RelativeDocumentMoniker": "SelectionSort\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\SelectionSort\\Program.cs",
-              "RelativeToolTip": "SelectionSort\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:34:47.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\DsAlgo\\Program.cs",
-              "RelativeDocumentMoniker": "DsAlgo\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\DsAlgo\\Program.cs",
-              "RelativeToolTip": "DsAlgo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:06:42.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\GCDUsingEuclid\\Program.cs",
-              "RelativeDocumentMoniker": "GCDUsingEuclid\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\GCDUsingEuclid\\Program.cs",
-              "RelativeToolTip": "GCDUsingEuclid\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T19:28:36.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\PrimeFactorization\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeFactorization\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\PrimeFactorization\\Program.cs",
-              "RelativeToolTip": "PrimeFactorization\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:28:28.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BinaryToDecimal\\Program.cs",
-              "RelativeDocumentMoniker": "BinaryToDecimal\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\BinaryToDecimal\\Program.cs",
-              "RelativeToolTip": "BinaryToDecimal\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T16:12:28.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Ds-Algo\\src\\DsAlgoPractice\\LearningArray\\Program.cs",
-              "RelativeDocumentMoniker": "LearningArray\\Program.cs",
-              "ToolTip": "F:\\Ds-Algo\\src\\DsAlgoPractice\\LearningArray\\Program.cs",
-              "RelativeToolTip": "LearningArray\\Program.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAQwFcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:16:49.374Z"
             }
           ]
         }

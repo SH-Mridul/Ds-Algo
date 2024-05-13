@@ -1,0 +1,15 @@
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\bin\Debug\net8.0\HeapSort.exe
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\bin\Debug\net8.0\HeapSort.deps.json
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\bin\Debug\net8.0\HeapSort.runtimeconfig.json
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\bin\Debug\net8.0\HeapSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\bin\Debug\net8.0\HeapSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\HeapSort.AssemblyInfoInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\HeapSort.AssemblyInfo.cs
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\HeapSort.csproj.CoreCompileInputs.cache
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\HeapSort.sourcelink.json
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\HeapSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\refint\HeapSort.dll
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\HeapSort.pdb
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\HeapSort.genruntimeconfig.cache
+F:\Ds-Algo\src\DsAlgoPractice\HeapSort\obj\Debug\net8.0\ref\HeapSort.dll
